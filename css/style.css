@@ -38,13 +38,13 @@ html, body {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/adoptly/bg.jpg") no-repeat center;
   background-size: cover;
   text-align: center;
-  height: 500px;
+  height: 550px;
 }
 
 .jumbotron .slogan{
   color: #E52364;
   font-weight: bold;
-  margin-top: 40px;
+  margin-top: 35px;
 }
 
 /* supporting */
