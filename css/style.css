@@ -27,6 +27,10 @@ html, body {
   color: #FFF;
 }
 
+.menu{
+  margin-top: -10px;
+}
+
 .header ul li:first-child{
   background-color: #E52364;
   font-size: 3em;
